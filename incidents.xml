@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<incidents>
+  <incident>
+    <lat>36.86</lat>
+    <lng>10.21</lng>
+    <shortDesc>construction work</shortDesc>
+    <type>closed </type>
+  </incident>
+  <incident>
+    <lat>36.82</lat>
+    <lng>10.13</lng>
+    <shortDesc>accident</shortDesc>
+    <type>accident</type>
+  </incident>
+  <incident>
+    <lat>36.74</lat>
+    <lng>10.23</lng>
+    <shortDesc>incident2</shortDesc>
+    <type>incident2</type>
+  </incident>
+  <incident>
+    <lat>37.24</lat>
+    <lng>9.60</lng>
+    <shortDesc>construction</shortDesc>
+    <type>incident</type>
+  </incident>
+  <incident>
+    <lat>35.44</lat>
+    <lng>10.86</lng>
+    <shortDesc>incident3</shortDesc>
+    <type>new incident</type>
+  </incident>
+  <incident>
+    <lat>36.19</lat>
+    <lng>8.72</lng>
+    <shortDesc>construction work</shortDesc>
+    <type>incident</type>
+  </incident>
+  <incident>
+    <lat>33.79</lat>
+    <lng>10.88</lng>
+    <shortDesc>semi renversé</shortDesc>
+    <type>accident</type>
+  </incident>
+</incidents>
