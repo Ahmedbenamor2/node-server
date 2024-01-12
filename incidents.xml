@@ -42,4 +42,16 @@
     <shortDesc>semi renversé</shortDesc>
     <type>accident</type>
   </incident>
+  <incident>
+    <lat>34.96</lat>
+    <lng>10.31</lng>
+    <shortDesc>construction</shortDesc>
+    <type>incident</type>
+  </incident>
+  <incident>
+    <lat>35.23</lat>
+    <lng>9.07</lng>
+    <shortDesc>incident </shortDesc>
+    <type>incident</type>
+  </incident>
 </incidents>
